@@ -2,4 +2,3 @@ streamlit
 matplotlib
 reportlab
 pandas
-sqlite3
